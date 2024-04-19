@@ -41,11 +41,11 @@ while True:
 
 Client
 
-![ex3aclient](https://github.com/ikeerthivasanswaminathan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148937372/7ffef7b1-b51d-4aad-8834-872b34a5f4ce)
+![ex3aclient (edited)](https://github.com/ikeerthivasanswaminathan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148937372/a80f5fbd-0887-431f-8e30-c345faa43127)
 
 Server
 
-![ex3aserver](https://github.com/ikeerthivasanswaminathan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148937372/91efce7c-8eb7-4824-9b2e-11333d44ec64)
+![ex3aserver (edited)](https://github.com/ikeerthivasanswaminathan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148937372/99e80f05-7ccc-4134-b963-b5c18fe738a4)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets links was successfully created and executed.
